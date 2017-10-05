@@ -1,8 +1,10 @@
 # <a name="top"></a>Getting Started with git and GitHub
 
-Please use the [issues](https://github.com/drphilmarshall/GettingStarted/issues) to post requests for more FAQ!
+Please use the [issues](https://github.com/drphilmarshall/GettingStarted/issues) to post request for more FAQ!
+dl;alks;alkda;sldksa;mcknsa;clknlkmxsakmckncksdlncslkcnlakcnla;knclkscmcscmsc;mcs;cm;mcmcmc;lk
+LALALALALALALALALALALLALALALALLAALAALLL
 
-For a video tutorial that should (hopefully) get you from git newbie to being able to submit a pull request, please follow [this YouTube link](https://www.youtube.com/watch?v=2g9lsbJBPEs). The [GitHub help pages](https://help.github.com/) are also very good.
+
 
 ## FAQ
 
@@ -385,7 +387,7 @@ Private repos also have issue lists attached to them, but only the people in tha
 ----------------------------------------------------------------------
 #### <a name="pullrequests"></a>What is a "Pull Request"?
 
-Suppose you see something that needs fixing in a repo's code. Here's a good way to go about fixing it: 1) Make a branch to contain the fixed code, with something like "git checkout -b betterlayout" . 2) Edit the code and commit and push your changes, with "git push origin betterlayout". This makes a corresponding branch, also called "betterlayout" on the remote repo "origin". 3) Go to the repo's page on GitHub. It will probably prompt you to "submit a pull request" - if it doesn't, select the "betterlayout" branch from the "branch:" menu next to the repo name. 4) Click on the button to start a pull request. An issue-like form will appear, where you can edit the title of the pull request (eg "Better LaTeX Layout?") and provide some comment on what you have done and why. 5) Submit the pull request with the button at the bottom of the form. This will notify the repo's owner, and everyone else who is watching the repo, that you have made some changes and would like them to be merged into the code. The owner will then review your changes - notice how all the commits that have been made in the "betterlayout" branch are tracked automatically in the pull request thread.
+Supposee  you see something that needs fixing in a repo's code. Here's a good way to go about fixing it: 1) Make a branch to contain the fixed code, with something like "git checkout -b betterlayout" . 2) Edit the code and commit and push your changes, with "git push origin betterlayout". This makes a corresponding branch, also called "betterlayout" on the remote repo "origin". 3) Go to the repo's page on GitHub. It will probably prompt you to "submit a pull request" - if it doesn't, select the "betterlayout" branch from the "branch:" menu next to the repo name. 4) Click on the button to start a pull request. An issue-like form will appear, where you can edit the title of the pull request (eg "Better LaTeX Layout?") and provide some comment on what you have done and why. 5) Submit the pull request with the button at the bottom of the form. This will notify the repo's owner, and everyone else who is watching the repo, that you have made some changes and would like them to be merged into the code. The owner will then review your changes - notice how all the commits that have been made in the "betterlayout" branch are tracked automatically in the pull request thread.
 
 As you can see, a pull request is a request for your changes to be pulled into another branch of the repository, typically the master branch. You often see repos with READMEs that say "pull requests welcome!" This is because they provide a mechanism for anyone to add value to your project  by making improvements and then asking you to accept them! As owner, you don't have to accept any pull request, but usually they are a Good Thing. And you always get to review them first anyway.
 
@@ -420,7 +422,7 @@ As soon as you fork a repository, have in mind that it is continually diverging 
     <a href="https://try.github.io//levels/1/challenges/1">Code School</a>: Git. Nice interactive way to learn the basics of git in ~15 minutes.</li>
   <li>
     <a href="https://confluence.lsstcorp.org/display/SIM/Git+and+STASH+for+Simulations">LSST Simulations Framework Guide</a>. For the more sophisticated command line users. Written by Mario Juric and Andrew Connolly.</li>
-  <li>The branching nature of git can be tricky to visualize at first.  These <a href="http://onlywei.github.io/explain-git-with-d3/">visual git tutorials</a> are helpful to understand what the git commands are doing in the git commit tree.</li>
+lalalalalalal
 </ul>
 
 [Back to top.](#top)
